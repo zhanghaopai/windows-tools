@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name "JSON格式化工具" main.py
